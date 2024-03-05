@@ -1,0 +1,288 @@
+[{
+  "_id": {
+    "$oid": "65cd383a436dabb79c0c0cae"
+  },
+  "sale_id": "1",
+  "saledate": "2024-02-12",
+  "ticket": {
+    "ticket_id": {
+      "$oid": "65cd3472436dabb79c0c0ca8"
+    },
+    "quantity": 3
+  },
+  "price": 30,
+  "person": {
+    "user_id": "001",
+    "ticketscode": "random"
+  }
+},
+{
+  "_id": {
+    "$oid": "65cd383a436dabb79c0c0caf"
+  },
+  "sale_id": "2",
+  "saledate": "2024-02-12",
+  "ticket": {
+    "ticket_id": {
+      "$oid": "65cd3472436dabb79c0c0ca8"
+    },
+    "quantity": 1
+  },
+  "price": 10,
+  "person": {
+    "user_id": "001",
+    "ticketscode": "random"
+  }
+},
+{
+  "_id": {
+    "$oid": "65cd383a436dabb79c0c0cb0"
+  },
+  "sale_id": "3",
+  "saledate": "2024-02-12",
+  "ticket": [
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0ca8"
+      },
+      "quantity": 2
+    },
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0ca9"
+      },
+      "quantity": 1
+    }
+  ],
+  "price": 22,
+  "person": {
+    "user_id": "002",
+    "ticketscode": "random"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d369db118fd864f296afc4"
+  },
+  "sale_id": "4",
+  "saledate": "2024-02-13",
+  "ticket": {
+    "ticket_id": {
+      "$oid": "65cd3472436dabb79c0c0ca8"
+    },
+    "quantity": 3
+  },
+  "price": 30,
+  "person": {
+    "person_id": {
+      "$oid": "65cd2576436dabb79c0c0c9e"
+    },
+    "ticketscode": "random"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d36a8b118fd864f296afc5"
+  },
+  "sale_id": "5",
+  "saledate": "2024-02-15",
+  "ticket": {
+    "ticket_id": {
+      "$oid": "65cd3472436dabb79c0c0ca8"
+    },
+    "quantity": 2
+  },
+  "price": 20,
+  "person": {
+    "user_id": "002",
+    "ticketscode": "random"
+  }
+},
+{
+  "_id": {
+    "$oid": "65df017c07a72acee0460b1f"
+  },
+  "sale_id": "4",
+  "saledate": "2024-02-12",
+  "ticket": [
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0ca8"
+      },
+      "quantity": 1
+    },
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0ca9"
+      },
+      "quantity": 1
+    }
+  ],
+  "price": 12,
+  "person": {
+    "person_id": {
+      "$oid": "65d36ddd118fd864f296afc7"
+    },
+    "ticketscode": "random"
+  }
+},
+{
+  "_id": {
+    "$oid": "65df017c07a72acee0460b20"
+  },
+  "sale_id": "5",
+  "saledate": "2024-02-12",
+  "ticket": {
+    "ticket_id": {
+      "$oid": "65cd3472436dabb79c0c0ca9"
+    },
+    "quantity": 1
+  },
+  "price": 2,
+  "person": {
+    "person_id": {
+      "$oid": "65dddbf30090370d49ed0bca"
+    },
+    "ticketscode": "random"
+  }
+},
+{
+  "_id": {
+    "$oid": "65df017c07a72acee0460b21"
+  },
+  "sale_id": "6",
+  "saledate": "2024-02-12",
+  "ticket": [
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0ca8"
+      },
+      "quantity": 2
+    },
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0ca8"
+      },
+      "quantity": 2
+    }
+  ],
+  "price": 24,
+  "person": {
+    "person_id": {
+      "$oid": "65dddbf30090370d49ed0bcb"
+    },
+    "ticketscode": "random"
+  }
+},
+{
+  "_id": {
+    "$oid": "65df017c07a72acee0460b22"
+  },
+  "sale_id": "7",
+  "saledate": "2024-02-13",
+  "ticket": [
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0caa"
+      },
+      "quantity": 2
+    },
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0cab"
+      },
+      "quantity": 2
+    }
+  ],
+  "price": 24,
+  "person": {
+    "person_id": {
+      "$oid": "65dddbf30090370d49ed0bcb"
+    },
+    "ticketscode": "random"
+  }
+},
+{
+  "_id": {
+    "$oid": "65df017c07a72acee0460b23"
+  },
+  "sale_id": "8",
+  "saledate": "2024-02-13",
+  "ticket": [
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0caa"
+      },
+      "quantity": 1
+    },
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0cab"
+      },
+      "quantity": 2
+    }
+  ],
+  "price": 14,
+  "person": {
+    "person_id": {
+      "$oid": "65dddbf30090370d49ed0bcc"
+    },
+    "ticketscode": "random"
+  }
+},
+{
+  "_id": {
+    "$oid": "65df017c07a72acee0460b24"
+  },
+  "sale_id": "9",
+  "saledate": "2024-02-13",
+  "ticket": [
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0ca8"
+      },
+      "quantity": 2
+    },
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0ca9"
+      },
+      "quantity": 2
+    }
+  ],
+  "price": 24,
+  "person": {
+    "person_id": {
+      "$oid": "65dddbf30090370d49ed0bcd"
+    },
+    "ticketscode": "random"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e61d5f781bd52cefc634eb"
+  },
+  "sale_id": "9",
+  "saledate": "2024-02-12",
+  "ticket": [
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0ca8"
+      },
+      "quantity": 1
+    },
+    {
+      "ticket_id": {
+        "$oid": "65cd3472436dabb79c0c0ca9"
+      },
+      "quantity": 2
+    }
+  ],
+  "price": 14,
+  "person": {
+    "person_id": {
+      "$oid": "65dddbf30090370d49ed0bcc"
+    },
+    "ticketscode": "random"
+  }
+}]

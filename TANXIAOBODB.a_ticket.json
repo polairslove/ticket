@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "65cd3472436dabb79c0c0ca8"
+  },
+  "ticket_name": "skatingticket",
+  "type": {
+    "mark": "t01",
+    "description": "18+",
+    "quantity": "100"
+  },
+  "price": 10,
+  "period": {
+    "start": "15:00",
+    "end": "16:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "65cd3472436dabb79c0c0ca9"
+  },
+  "ticket_name": "skatingticket",
+  "type": {
+    "mark": "t02",
+    "description": "12-",
+    "quantity": "50"
+  },
+  "price": 2,
+  "period": {
+    "start": "15:00",
+    "end": "16:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "65cd3472436dabb79c0c0caa"
+  },
+  "ticket_name": "skatingticket",
+  "type": {
+    "mark": "t01",
+    "description": "18+",
+    "quantity": "100"
+  },
+  "price": 10,
+  "period": {
+    "start": "17:00",
+    "end": "18:00"
+  }
+},
+{
+  "_id": {
+    "$oid": "65cd3472436dabb79c0c0cab"
+  },
+  "ticket_name": "skatingticket",
+  "type": {
+    "mark": "t02",
+    "description": "12-",
+    "quantity": "50"
+  },
+  "price": 2,
+  "period": {
+    "start": "17:00",
+    "end": "18:00"
+  }
+}]
